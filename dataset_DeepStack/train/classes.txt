@@ -1,0 +1,9 @@
+hello
+i_love_you
+nice_to_meet_you
+no
+please
+sorry
+thank_you
+yes
+you_are_welcome
