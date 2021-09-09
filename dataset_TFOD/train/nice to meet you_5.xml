@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>nice to meet you_5.jpg</filename>
+	<path>/home/lalah/Downloads/Sign_Language_Dataset/dataset_TFOD/dataset_TFOD/dataset/nice to meet you_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nice_to_meet_you</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>375</ymin>
+			<xmax>481</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
